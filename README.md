@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## RentX
+
+**RentX is a car rent app, build by Rocketseat, and this github repository is based on the front-end of this application.**
 
 ## Getting Started
 
